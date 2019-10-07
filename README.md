@@ -19,15 +19,9 @@ Question 2:
 verse("duck", "quack");
 
 Question 3:
-No, I
-wug
-.
-You wugga
-wug
-.
-I
-wug
-.
+No, I wug.
+You wugga wug.
+I wug.
 
 Question 5:
 It would become an infinite loop of printing
